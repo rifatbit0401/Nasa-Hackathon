@@ -1,0 +1,62 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Models/f:User.cs" caret="403" fromTop="14" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:AnswerController.cs" caret="876" fromTop="5" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Models/f:Rank.cs" caret="528" fromTop="18" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Migrations/f:Configuration.cs" caret="379" fromTop="12" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:PhotoRepository.cs" caret="1164" fromTop="9" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Service/f:PhotoService.cs" caret="1410" fromTop="8" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Migrations/f:201504040330332_PhotoModelUpdated.cs" caret="440" fromTop="18" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Service/f:RankService.cs" caret="2660" fromTop="24" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:AnswerRepository.cs" caret="530" fromTop="16" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Models/f:Answer.cs" caret="704" fromTop="13" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:NasaDbContext.cs" caret="446" fromTop="15" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:RankRepository.cs" caret="794" fromTop="7" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:RankController.cs" caret="1779" fromTop="11" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Migrations/f:201504040147016_RankModelChanged.cs" caret="0" fromTop="0" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Service/f:AnswerService.cs" caret="877" fromTop="18" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:QuestionRepository.cs" caret="732" fromTop="11" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Models/f:Question.cs" caret="929" fromTop="17" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:QuestionController.cs" caret="672" fromTop="12" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Migrations/f:201504032342490_QuestionModelChanged.cs" caret="0" fromTop="0" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Service/f:QuestionService.cs" caret="552" fromTop="17" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:UserRepository.cs" caret="1222" fromTop="23" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:AccountController.cs" caret="1486" fromTop="26" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Service/f:AccountService.cs" caret="906" fromTop="28" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:TestController.cs" caret="302" fromTop="14" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:View_Models/f:SignUpInfo.cs" caret="318" fromTop="10" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Migrations/f:201504032225452_ModelAdded.cs" caret="0" fromTop="0" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Migrations/f:201504010750592_UserModelAdded.cs" caret="633" fromTop="20" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/f:Web.config" caret="807" fromTop="4" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Models/f:Photo.cs" caret="571" fromTop="18" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:PhotoController.cs" caret="1197" fromTop="12" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/f:Web.config" caret="807" fromTop="4" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Migrations/f:201504010750592_UserModelAdded.cs" caret="86" fromTop="3" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Models/f:User.cs" caret="607" fromTop="18" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Models/f:Answer.cs" caret="732" fromTop="25" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:View_Models/f:SignUpInfo.cs" caret="332" fromTop="10" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:UserRepository.cs" caret="954" fromTop="23" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:TestController.cs" caret="264" fromTop="13" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:AccountController.cs" caret="855" fromTop="13" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Service/f:AccountService.cs" caret="906" fromTop="9" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Models/f:Question.cs" caret="1152" fromTop="23" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Service/f:QuestionService.cs" caret="552" fromTop="17" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:QuestionRepository.cs" caret="741" fromTop="11" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:QuestionController.cs" caret="1779" fromTop="12" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Service/f:AnswerService.cs" caret="609" fromTop="18" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:AnswerController.cs" caret="955" fromTop="13" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Models/f:Rank.cs" caret="528" fromTop="18" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Migrations/f:201504040147016_RankModelChanged.cs" caret="0" fromTop="0" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:RankRepository.cs" caret="1425" fromTop="18" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:RankController.cs" caret="1158" fromTop="7" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Service/f:RankService.cs" caret="2246" fromTop="19" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Models/f:Photo.cs" caret="372" fromTop="13" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:AnswerRepository.cs" caret="721" fromTop="22" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:NasaDbContext.cs" caret="432" fromTop="15" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Repository/f:PhotoRepository.cs" caret="1472" fromTop="24" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Controllers/f:PhotoController.cs" caret="1826" fromTop="22" />
+    <File id="0045F47D-D734-45E4-BDE5-C3E008DCD50D/d:Service/f:PhotoService.cs" caret="2117" fromTop="20" />
+  </RecentEdits>
+</RecentFiles>

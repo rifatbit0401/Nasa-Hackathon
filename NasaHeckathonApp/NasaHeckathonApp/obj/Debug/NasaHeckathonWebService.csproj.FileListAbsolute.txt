@@ -32,3 +32,40 @@ c:\users\user1\documents\visual studio 2013\Projects\NasaHeckathonApp\NasaHeckat
 c:\users\user1\documents\visual studio 2013\Projects\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonApp.pdb
 C:\Users\user1\documents\visual studio 2013\Projects\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonApp.Migrations.UserModelAdded.resources
 C:\Users\user1\documents\visual studio 2013\Projects\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonWebService.csproj.GenerateResource.Cache
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\NasaHeckathonApp.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\NasaHeckathonApp.pdb
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\EntityFramework.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\EntityFramework.SqlServer.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\Newtonsoft.Json.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Net.Http.Formatting.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.Helpers.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.Http.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.Http.WebHost.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.Mvc.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.Razor.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.WebPages.Deployment.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.WebPages.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.WebPages.Razor.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\EntityFramework.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\EntityFramework.SqlServer.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\Newtonsoft.Json.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Net.Http.Formatting.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.Helpers.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.Http.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.Http.WebHost.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.Mvc.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.Razor.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.WebPages.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.WebPages.Deployment.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\bin\System.Web.WebPages.Razor.xml
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonWebService.csprojResolveAssemblyReference.cache
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonApp.Migrations.UserModelAdded.resources
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonWebService.csproj.GenerateResource.Cache
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonApp.dll
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonApp.pdb
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonApp.Migrations.ModelAdded.resources
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonApp.Migrations.QuestionModelChanged.resources
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonApp.Migrations.RankModelChanged.resources
+F:\Ananda DU\Nasa app contest\Nasa-Hackathon\NasaHeckathonApp\NasaHeckathonApp\obj\Debug\NasaHeckathonApp.Migrations.PhotoModelUpdated.resources

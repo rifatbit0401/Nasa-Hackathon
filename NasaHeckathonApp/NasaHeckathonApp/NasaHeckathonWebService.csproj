@@ -115,6 +115,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AnswerController.cs" />
+    <Compile Include="Controllers\PhotoController.cs" />
+    <Compile Include="Controllers\QuestionController.cs" />
+    <Compile Include="Controllers\RankController.cs" />
+    <Compile Include="Controllers\TestController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -122,13 +127,40 @@
     <Compile Include="Migrations\201504010750592_UserModelAdded.Designer.cs">
       <DependentUpon>201504010750592_UserModelAdded.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201504032225452_ModelAdded.cs" />
+    <Compile Include="Migrations\201504032225452_ModelAdded.Designer.cs">
+      <DependentUpon>201504032225452_ModelAdded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201504032342490_QuestionModelChanged.cs" />
+    <Compile Include="Migrations\201504032342490_QuestionModelChanged.Designer.cs">
+      <DependentUpon>201504032342490_QuestionModelChanged.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201504040147016_RankModelChanged.cs" />
+    <Compile Include="Migrations\201504040147016_RankModelChanged.Designer.cs">
+      <DependentUpon>201504040147016_RankModelChanged.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201504040330332_PhotoModelUpdated.cs" />
+    <Compile Include="Migrations\201504040330332_PhotoModelUpdated.Designer.cs">
+      <DependentUpon>201504040330332_PhotoModelUpdated.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Models\Image.cs" />
+    <Compile Include="Models\Answer.cs" />
+    <Compile Include="Models\Photo.cs" />
     <Compile Include="Models\Question.cs" />
+    <Compile Include="Models\Rank.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\AnswerRepository.cs" />
+    <Compile Include="Repository\PhotoRepository.cs" />
     <Compile Include="Repository\NasaDbContext.cs" />
+    <Compile Include="Repository\QuestionRepository.cs" />
+    <Compile Include="Repository\RankRepository.cs" />
+    <Compile Include="Repository\UserRepository.cs" />
     <Compile Include="Service\AccountService.cs" />
+    <Compile Include="Service\AnswerService.cs" />
+    <Compile Include="Service\PhotoService.cs" />
+    <Compile Include="Service\QuestionService.cs" />
+    <Compile Include="Service\RankService.cs" />
     <Compile Include="View_Models\LoginInfo.cs" />
     <Compile Include="View_Models\SignUpInfo.cs" />
   </ItemGroup>
@@ -150,6 +182,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Upload\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
@@ -157,6 +190,18 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201504010750592_UserModelAdded.resx">
       <DependentUpon>201504010750592_UserModelAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201504032225452_ModelAdded.resx">
+      <DependentUpon>201504032225452_ModelAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201504032342490_QuestionModelChanged.resx">
+      <DependentUpon>201504032342490_QuestionModelChanged.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201504040147016_RankModelChanged.resx">
+      <DependentUpon>201504040147016_RankModelChanged.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201504040330332_PhotoModelUpdated.resx">
+      <DependentUpon>201504040330332_PhotoModelUpdated.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

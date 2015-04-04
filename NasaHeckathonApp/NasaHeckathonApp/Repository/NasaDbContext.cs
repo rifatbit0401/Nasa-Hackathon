@@ -15,7 +15,10 @@ namespace NasaHeckathonApp.Repository
 
         }
 
+        public DbSet<Answer> Answers { get; set; }
+        public DbSet<Photo> Photos { get; set; }
+        public DbSet<Question> Questions { get; set; }
+        public DbSet<Rank> Ranks { get; set; }
         public DbSet<User> Users { get; set; }
-
     }
 }
