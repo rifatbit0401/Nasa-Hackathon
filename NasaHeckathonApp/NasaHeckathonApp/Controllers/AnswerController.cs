@@ -40,5 +40,6 @@ namespace NasaHeckathonApp.Controllers
         {
             return Json(_answerService.GetAllAnswerByUserId(userId), JsonRequestBehavior.AllowGet);
         }
+
     }
 }

@@ -34,5 +34,15 @@ namespace NasaHeckathonApp.Controllers
             return Json(_questionService.GetAllQuestionByUserId(userId), JsonRequestBehavior.AllowGet);
         }
 
+        public ActionResult GetQuestionsByPestName(String pestName)
+        {
+            
+        }
+
+        public ActionResult GetQuestionsByPesticideName(String pesticideName)
+        {
+            
+        }
+
     }
 }

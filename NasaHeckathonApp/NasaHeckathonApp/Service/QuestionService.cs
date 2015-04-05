@@ -31,5 +31,9 @@ namespace NasaHeckathonApp.Service
             return _questionRepository.GetAllByUserId(userId);
         }
 
+        public List<Question> GetAllQuestionByPestName(String pestName)
+        {
+            return _questionRepository.GetAllByPestName(pestName);
+        }
     }
 }
