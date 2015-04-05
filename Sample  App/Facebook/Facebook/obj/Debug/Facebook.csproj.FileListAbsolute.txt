@@ -1,0 +1,10 @@
+c:\users\user1\documents\visual studio 2013\Projects\Facebook\Facebook\bin\Debug\Facebook.exe.config
+c:\users\user1\documents\visual studio 2013\Projects\Facebook\Facebook\bin\Debug\Facebook.exe
+c:\users\user1\documents\visual studio 2013\Projects\Facebook\Facebook\bin\Debug\Facebook.pdb
+c:\users\user1\documents\visual studio 2013\Projects\Facebook\Facebook\bin\Debug\MongoDB.Bson.dll
+c:\users\user1\documents\visual studio 2013\Projects\Facebook\Facebook\bin\Debug\MongoDB.Driver.dll
+c:\users\user1\documents\visual studio 2013\Projects\Facebook\Facebook\bin\Debug\MongoDB.Bson.xml
+c:\users\user1\documents\visual studio 2013\Projects\Facebook\Facebook\bin\Debug\MongoDB.Driver.xml
+c:\users\user1\documents\visual studio 2013\Projects\Facebook\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2013\Projects\Facebook\Facebook\obj\Debug\Facebook.exe
+c:\users\user1\documents\visual studio 2013\Projects\Facebook\Facebook\obj\Debug\Facebook.pdb
